@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Responsive design",
+    "price": "$1500",
+    "courseDetail": [
+      "A High-Level Overview of Web Development",
+      "User Interface Design (UI Design)",
+      "Your Very First Webpage",
+      "Watch Before You Start"
+    ],
+    "duration": "4 months",
+    "des": "First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid."
+  },
+  {
+    "id": "2",
+    "name": " UI Design",
+    "price": "$1200",
+    "courseDetail": [
+      "Usability",
+      "User Interface Design (UI Design)",
+      "Design Theory",
+      "User Interface"
+    ],
+    "duration": "8 months",
+    "des": "In this course, you will gain an understanding of the critical importance of user interface design. You will also learn industry-standard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use today.Through a series of case studies on commercial systems - many of which you likely use on a regular basis - we will illustrate the benefits of good design. We will also demonstrate how the costs of bad design can often be severe (in user experience, money, and even human lives).You will then gain a high-level understanding of the user-interface design process. You will be introduced to common design scenarios - e.g. improving on existing designs and starting a new design from scratch - and the general design processes that tend to be used for each scenario.Finally, we will begin introducing the large body of existing knowledge on design by providing overviews of core user interface design theories and concepts. This key foundational information will help you avoid “reinventing the wheel” when you are designing your interfaces in this specialization"
+  },
+  {
+    "id": "3",
+    "name": "Mobile App Design",
+    "price": "$1600",
+    "courseDetail": [
+      "Navigate Xcode 9's interface.",
+      "Make the code AND art for projects",
+      "Build apps for the iPhone from start to finish",
+      "Code in Apple's programming language, Swift 4.0"
+    ],
+    "duration": "7 months",
+    "des": "In Part 1 of this course you learn how to make apps in Xcode 9. This course is project-based -- you follow along with your instructor to build real projects. The best way for you to learn how to make your own app is to follow project-based training content. You can put the apps you make in this course in your portfolio! Learn to develop for the biggest company in the world Xcode is Apple's FREE software for app development. Xcode is user-friendly and allows you to make complex and creative apps. Xcode is accessible for beginners who want to make simple apps. Swift 4.0 is the programming language to learn if you want to make apps for Apple products. Your teachers will teach you practical skills using real-world examples. Take this course to build your portfolio today. In Part 2, you build 60 2D games in Construct 2. This course is unique because we make both the code and the art for the game from scratch. We teach you the fundamentals of designing and coding a game. Don't worry if you've never coded before. We start simple and add more to the game as the course goes on. Included in this course is material for beginners to get comfortable with the interfaces. Please note that we reuse this content in similar courses because it is introductory material. You can find some material in this course in the following related courses"
+  },
+  {
+    "id": "4",
+    "name": "Android App Design",
+    "price": "$1000",
+    "courseDetail": [
+      "Implementing Material Design Feature",
+      "Make the code AND art for projects",
+      "The concept of this awesome feature provided ",
+      "Android App Development will be crystal clear."
+    ],
+    "duration": "10 months",
+    "des": "In Part 1 of this course you learn how to make apps in Xcode 9. This course is project-based -- you follow along with your instructor to build real projects. The best way for you to learn how to make your own app is to follow project-based training content. You can put the apps you make in this course in your portfolio! Learn to develop for the biggest company in the world Xcode is Apple's FREE software for app development. Xcode is user-friendly and allows you to make complex and creative apps. Xcode is accessible for beginners who want to make simple apps. Swift 4.0 is the programming language to learn if you want to make apps for Apple products. Your teachers will teach you practical skills using real-world examples. Take this course to build your portfolio today. In Part 2, you build 60 2D games in Construct 2. This course is unique because we make both the code and the art for the game from scratch. We teach you the fundamentals of designing and coding a game. Don't worry if you've never coded before. We start simple and add more to the game as the course goes on. Included in this course is material for beginners to get comfortable with the interfaces. Please note that we reuse this content in similar courses because it is introductory material. You can find some material in this course in the following related courses"
+  },
+  {
+    "id": "5",
+    "name": "Android App Design",
+    "price": "$1100",
+    "courseDetail": [
+      "multiple design apps to enhance",
+      "You'll learn tools that are universal across ",
+      "The concept of this awesome feature provided ",
+      "You'll learn how to use Adobe XD to design"
+    ],
+    "duration": "10 months",
+    "des":"Adobe XD is a powerful tool for UI/UX designers giving you the power to design and prototype an entire app, all from one program. This course starts off with Adobe XD basics and quickly gets up to speed on designing and prototyping a full fledged app with amazing images, colors, and animations."
+  },
+  {
+    "id": "6",
+    "name": "Photoshop Master Course",
+    "price": "$1200",
+    "courseDetail": [
+      "Understand all photoshop basics & tools",
+      "Make the code AND art for projects",
+      "What Photoshop is & how to get into it!",
+      "Photoshop Master Course"
+    ],
+    "duration": "10 months",
+    "des":"One thing I have learned through all the years of working with Adobe Photoshop is that knowing and understanding the essentials of adobe photoshop is just as fundamental as the heavier and trickier Photoshop techniques when it comes to honing your craft. This Photoshop Beginner course is multifaceted. You do not need any previous knowledge of Photoshop, Design or Photography. We start by going through the essentials of Photoshop. A step-by-step guide on photoshop workspace, every single tool and its function(s). After we've established the essentials, we can now build on our foundation. In the next part of the photoshop course, we head into a basic Photoshop Portrait Retouching Course. From here the following lectures will deal with the more advanced photoshop techniques to really improve your Photoshop skills and the pace at which you work. I've added a bonus lecture towards the end of the course. That focuses on what & how when it comes to using a Wacom tablet in photoshop. I've also added a bonus lecture that focuses on the next steps. Where to find more free photoshop lectures and how to progress with your photoshop workflow."
+  }
+]

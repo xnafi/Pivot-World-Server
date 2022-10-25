@@ -1,15 +1,20 @@
 const express = require('express');
 const app = express();
-const cors = require('cors');
 const port = process.env.PORT || 5000
+const cors = require('cors')
 
-app(cors())
+app.use(cors())
+const courses = require('./data/catagories.json')
 
 app.get('/', (req, res) => {
-    res.send('Pivot Design Api Runnig')
+    res.send('news api runnig')
+})
+
+app.get('/courses', (req, res) => {
+    res.send(courses)
 })
 
 
 app.listen(port, () => {
-    console.log('port is running', port);
+    console.log('running port', port);
 })
