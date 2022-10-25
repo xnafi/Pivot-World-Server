@@ -3,6 +3,7 @@
     "id": "1",
     "name": "Responsive design",
     "price": "$1500",
+    "image": "https://img.freepik.com/free-vector/flat-design-responsive-website-design_23-2149489189.jpg?w=740&t=st=1666726092~exp=1666726692~hmac=1dfefb056a019fbb01f4f9aef0f154ac4ca657e642d4f38a6de979b9cfcfa962",
     "courseDetail": [
       "A High-Level Overview of Web Development",
       "User Interface Design (UI Design)",
@@ -16,6 +17,7 @@
     "id": "2",
     "name": " UI Design",
     "price": "$1200",
+    "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?w=740&t=st=1666726184~exp=1666726784~hmac=4d1bf7130998e253c711d8f67dcdfbc2445794ffee969d329384245b4ff4cd96",
     "courseDetail": [
       "Usability",
       "User Interface Design (UI Design)",
@@ -27,8 +29,9 @@
   },
   {
     "id": "3",
-    "name": "Mobile App Design",
+    "name": "ISO App Design",
     "price": "$1600",
+    "image": "https://img.freepik.com/free-psd/elegant-mockup-tablet-smartphone_125540-2155.jpg?w=740&t=st=1666726335~exp=1666726935~hmac=705fa6d07208d475c281739eed680d9a164f568392060c628c4bbc5a34902211",
     "courseDetail": [
       "Navigate Xcode 9's interface.",
       "Make the code AND art for projects",
@@ -42,6 +45,7 @@
     "id": "4",
     "name": "Android App Design",
     "price": "$1000",
+    "image": "https://img.freepik.com/free-vector/banking-app-interface-concept_52683-41892.jpg?w=740&t=st=1666726408~exp=1666727008~hmac=e5f89833dcbddbd967dd859998c336f3d4157ba1a6d718ce7772bd917a3fe27e",
     "courseDetail": [
       "Implementing Material Design Feature",
       "Make the code AND art for projects",
@@ -53,8 +57,9 @@
   },
   {
     "id": "5",
-    "name": "Android App Design",
+    "name": "Adobe XD Design",
     "price": "$1100",
+    "image": "https://img.freepik.com/free-vector/website-creator-concept-illustration_114360-3315.jpg?w=740&t=st=1666726565~exp=1666727165~hmac=c4d0f1b182f62ba1cfdff88c406fd7d838c1e8ec0c29ab7633dbe2501d54f773",
     "courseDetail": [
       "multiple design apps to enhance",
       "You'll learn tools that are universal across ",
@@ -62,12 +67,13 @@
       "You'll learn how to use Adobe XD to design"
     ],
     "duration": "10 months",
-    "des":"Adobe XD is a powerful tool for UI/UX designers giving you the power to design and prototype an entire app, all from one program. This course starts off with Adobe XD basics and quickly gets up to speed on designing and prototyping a full fledged app with amazing images, colors, and animations."
+    "des": "Adobe XD is a powerful tool for UI/UX designers giving you the power to design and prototype an entire app, all from one program. This course starts off with Adobe XD basics and quickly gets up to speed on designing and prototyping a full fledged app with amazing images, colors, and animations."
   },
   {
     "id": "6",
     "name": "Photoshop Master Course",
     "price": "$1200",
+    "image": "https://img.freepik.com/free-photo/creative-creator-doing-portrait-retouch-using-color-grade-late-night-professional-editing-office_482257-5161.jpg?w=740&t=st=1666726645~exp=1666727245~hmac=ecdb3b9cfeba88f54118a5b563483702bbcd3230daa27d41a9f8782ad4ecad7b",
     "courseDetail": [
       "Understand all photoshop basics & tools",
       "Make the code AND art for projects",
@@ -75,6 +81,6 @@
       "Photoshop Master Course"
     ],
     "duration": "10 months",
-    "des":"One thing I have learned through all the years of working with Adobe Photoshop is that knowing and understanding the essentials of adobe photoshop is just as fundamental as the heavier and trickier Photoshop techniques when it comes to honing your craft. This Photoshop Beginner course is multifaceted. You do not need any previous knowledge of Photoshop, Design or Photography. We start by going through the essentials of Photoshop. A step-by-step guide on photoshop workspace, every single tool and its function(s). After we've established the essentials, we can now build on our foundation. In the next part of the photoshop course, we head into a basic Photoshop Portrait Retouching Course. From here the following lectures will deal with the more advanced photoshop techniques to really improve your Photoshop skills and the pace at which you work. I've added a bonus lecture towards the end of the course. That focuses on what & how when it comes to using a Wacom tablet in photoshop. I've also added a bonus lecture that focuses on the next steps. Where to find more free photoshop lectures and how to progress with your photoshop workflow."
+    "des": "One thing I have learned through all the years of working with Adobe Photoshop is that knowing and understanding the essentials of adobe photoshop is just as fundamental as the heavier and trickier Photoshop techniques when it comes to honing your craft. This Photoshop Beginner course is multifaceted. You do not need any previous knowledge of Photoshop, Design or Photography. We start by going through the essentials of Photoshop. A step-by-step guide on photoshop workspace, every single tool and its function(s). After we've established the essentials, we can now build on our foundation. In the next part of the photoshop course, we head into a basic Photoshop Portrait Retouching Course. From here the following lectures will deal with the more advanced photoshop techniques to really improve your Photoshop skills and the pace at which you work. I've added a bonus lecture towards the end of the course. That focuses on what & how when it comes to using a Wacom tablet in photoshop. I've also added a bonus lecture that focuses on the next steps. Where to find more free photoshop lectures and how to progress with your photoshop workflow."
   }
 ]
