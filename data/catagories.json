@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Responsive design",
     "price": "$1500",
     "image": "https://img.freepik.com/free-vector/flat-design-responsive-website-design_23-2149489189.jpg?w=740&t=st=1666726092~exp=1666726692~hmac=1dfefb056a019fbb01f4f9aef0f154ac4ca657e642d4f38a6de979b9cfcfa962",
@@ -14,7 +14,7 @@
     "des": "First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a web form.Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid."
   },
   {
-    "id": "2",
+    "id": 2,
     "name": " UI Design",
     "price": "$1200",
     "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?w=740&t=st=1666726184~exp=1666726784~hmac=4d1bf7130998e253c711d8f67dcdfbc2445794ffee969d329384245b4ff4cd96",
@@ -28,7 +28,7 @@
     "des": "In this course, you will gain an understanding of the critical importance of user interface design. You will also learn industry-standard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use today.Through a series of case studies on commercial systems - many of which you likely use on a regular basis - we will illustrate the benefits of good design. We will also demonstrate how the costs of bad design can often be severe (in user experience, money, and even human lives).You will then gain a high-level understanding of the user-interface design process. You will be introduced to common design scenarios - e.g. improving on existing designs and starting a new design from scratch - and the general design processes that tend to be used for each scenario.Finally, we will begin introducing the large body of existing knowledge on design by providing overviews of core user interface design theories and concepts. This key foundational information will help you avoid “reinventing the wheel” when you are designing your interfaces in this specialization"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "ISO App Design",
     "price": "$1600",
     "image": "https://img.freepik.com/free-psd/elegant-mockup-tablet-smartphone_125540-2155.jpg?w=740&t=st=1666726335~exp=1666726935~hmac=705fa6d07208d475c281739eed680d9a164f568392060c628c4bbc5a34902211",
@@ -42,7 +42,7 @@
     "des": "In Part 1 of this course you learn how to make apps in Xcode 9. This course is project-based -- you follow along with your instructor to build real projects. The best way for you to learn how to make your own app is to follow project-based training content. You can put the apps you make in this course in your portfolio! Learn to develop for the biggest company in the world Xcode is Apple's FREE software for app development. Xcode is user-friendly and allows you to make complex and creative apps. Xcode is accessible for beginners who want to make simple apps. Swift 4.0 is the programming language to learn if you want to make apps for Apple products. Your teachers will teach you practical skills using real-world examples. Take this course to build your portfolio today. In Part 2, you build 60 2D games in Construct 2. This course is unique because we make both the code and the art for the game from scratch. We teach you the fundamentals of designing and coding a game. Don't worry if you've never coded before. We start simple and add more to the game as the course goes on. Included in this course is material for beginners to get comfortable with the interfaces. Please note that we reuse this content in similar courses because it is introductory material. You can find some material in this course in the following related courses"
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Android App Design",
     "price": "$1000",
     "image": "https://img.freepik.com/free-vector/banking-app-interface-concept_52683-41892.jpg?w=740&t=st=1666726408~exp=1666727008~hmac=e5f89833dcbddbd967dd859998c336f3d4157ba1a6d718ce7772bd917a3fe27e",
@@ -56,7 +56,7 @@
     "des": "In Part 1 of this course you learn how to make apps in Xcode 9. This course is project-based -- you follow along with your instructor to build real projects. The best way for you to learn how to make your own app is to follow project-based training content. You can put the apps you make in this course in your portfolio! Learn to develop for the biggest company in the world Xcode is Apple's FREE software for app development. Xcode is user-friendly and allows you to make complex and creative apps. Xcode is accessible for beginners who want to make simple apps. Swift 4.0 is the programming language to learn if you want to make apps for Apple products. Your teachers will teach you practical skills using real-world examples. Take this course to build your portfolio today. In Part 2, you build 60 2D games in Construct 2. This course is unique because we make both the code and the art for the game from scratch. We teach you the fundamentals of designing and coding a game. Don't worry if you've never coded before. We start simple and add more to the game as the course goes on. Included in this course is material for beginners to get comfortable with the interfaces. Please note that we reuse this content in similar courses because it is introductory material. You can find some material in this course in the following related courses"
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Adobe XD Design",
     "price": "$1100",
     "image": "https://img.freepik.com/free-vector/website-creator-concept-illustration_114360-3315.jpg?w=740&t=st=1666726565~exp=1666727165~hmac=c4d0f1b182f62ba1cfdff88c406fd7d838c1e8ec0c29ab7633dbe2501d54f773",
@@ -70,7 +70,7 @@
     "des": "Adobe XD is a powerful tool for UI/UX designers giving you the power to design and prototype an entire app, all from one program. This course starts off with Adobe XD basics and quickly gets up to speed on designing and prototyping a full fledged app with amazing images, colors, and animations."
   },
   {
-    "id": "6",
+    "id": 6,
     "name": "Photoshop Master Course",
     "price": "$1200",
     "image": "https://img.freepik.com/free-photo/creative-creator-doing-portrait-retouch-using-color-grade-late-night-professional-editing-office_482257-5161.jpg?w=740&t=st=1666726645~exp=1666727245~hmac=ecdb3b9cfeba88f54118a5b563483702bbcd3230daa27d41a9f8782ad4ecad7b",

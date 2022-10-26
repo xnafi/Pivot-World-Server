@@ -13,9 +13,17 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
-app.get('/course/:id', (req, res) => {
+app.get('/courses/details/:id', (req, res) => {
     const id = req.params.id
     const select = courses.find(course => course.id == id)
+    if (!select) {
+        return res.send('invalid quarry')
+    }
+    res.send(select)
+})
+app.get('/purchase/:id', (req, res) => {
+    const id = req.params.id
+    const select = courses.find(data => data.id == id)
     if (!select) {
         return res.send('invalid quarry')
     }
